@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @federoRE
-- 👀 I’m interested in cybersecurity, automation and big data.
+- 👀 I’m interested in cybersecurity and automation.
 - 🌱 I’m currently learning IT Engineering at UniPD.
-- 📫 How to reach me: [@0xfedero](https://twitter.com/0xfedero) on Twitter or via email: fedeero@outlook.com
+- 📫 How to reach me: [@0xfedero](https://twitter.com/0xfedero) on Twitter
 
 <!---
 federoRE/federoRE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
